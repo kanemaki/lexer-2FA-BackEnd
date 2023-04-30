@@ -1,0 +1,29 @@
+{
+  "contratos": [
+    {
+      "cnpj": "47.776.644/0001-30",
+      "razaoSocial": "MOCK para 2FA no Totvs",
+      "licencasTotais": 10,
+      "licencasUso": 5,
+      "licensasDisponiveis": 5
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "cpf": "985.440.990-25",
+      "nome": "Joao"
+    },
+    {
+      "id": 2,
+      "nome": "Alexandre",
+      "cpf": "240.296.668-84"
+      
+    },
+    {
+      "id": 3,
+      "nome": "Nicolas",
+      "cpf": "461.441.453-20"
+    }
+  ]
+}
