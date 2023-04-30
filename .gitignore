@@ -1,0 +1,11 @@
+###############
+# Diretorios  #
+###############
+.vscode/*
+node_modules/*
+dist/*
+.parcel-cache/*
+###############
+# Arquivos    #
+###############
+*.code-workspace
