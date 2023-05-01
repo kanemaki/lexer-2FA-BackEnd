@@ -1,0 +1,22 @@
+{
+  "name": "lexer-2fa-backend",
+  "version": "1.0.0",
+  "description": "JSON LEXER MOCK SERVER",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.js",
+    "dev:json": "json-server DataBase/db.json",
+    "dev:json:seed": "json-server DataBase/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "axios": "^1.4.0",
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
